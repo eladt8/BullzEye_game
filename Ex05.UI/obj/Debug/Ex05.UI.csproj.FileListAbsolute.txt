@@ -1,0 +1,14 @@
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.UI.exe
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.UI.pdb
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.logic.dll
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.logic.pdb
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.exe
+C:\Users\User\Documents\לימודים\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.pdb
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.exe
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.pdb
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.UI.exe
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.UI.pdb
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.logic.dll
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\bin\Debug\Ex05.logic.pdb
+C:\Users\User\Documents\לימודים\שנה ב\סמסטר ב\c#\תרגיל 5\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\B17 Ex05 EladTanaami 304958184 BarHalag 201438777\Ex05.UI\obj\Debug\Ex05.UI.csprojResolveAssemblyReference.cache
